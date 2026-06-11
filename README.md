@@ -6,6 +6,9 @@ Customers browse products, place orders and track them; admins manage the produc
 and fulfil orders. Authentication is handled by **Supabase**, the storefront is built with
 **Next.js**, and order/product business logic runs in a **Go** API backed by PostgreSQL.
 
+Demo video can be seen here:
+https://www.youtube.com/watch?v=zrlz6jEA5Nc
+
 ## Tech stack
 
 | Layer | Technology |
