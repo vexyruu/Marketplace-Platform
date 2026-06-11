@@ -7,7 +7,12 @@ and fulfil orders. Authentication is handled by **Supabase**, the storefront is 
 **Next.js**, and order/product business logic runs in a **Go** API backed by PostgreSQL.
 
 Demo video can be seen here:
-https://www.youtube.com/watch?v=zrlz6jEA5Nc
+
+
+https://github.com/user-attachments/assets/93694bcc-ef23-480e-9098-1506be24946a
+
+
+
 
 ## Tech stack
 
